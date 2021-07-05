@@ -9,7 +9,6 @@ Group Members:
 - Riddhi M
 
 Links for files containing the graphs and calculations:
-[Graphs](https://drive.google.com/drive/folders/1bBr0pT-Yb-AlNBAeuxBvt717IQZCnKrh?usp=sharing)
-
+[Graphs](https://drive.google.com/drive/folders/1bBr0pT-Yb-AlNBAeuxBvt717IQZCnKrh?usp=sharing),
 [Calculations](https://drive.google.com/drive/folders/1F4x8BEF3w8KUvduBrDGKcG8WJ3gRGgB8?usp=sharing)
 
